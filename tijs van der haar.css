@@ -1,0 +1,27 @@
+ body{
+     background: content-box radial-gradient(crimson,skyblue)
+}
+
+img.basketbal3{
+	margin: 0 auto;
+	display: block;
+}
+h1{
+	text-align: center;
+	}
+p{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
